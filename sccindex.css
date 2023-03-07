@@ -1,0 +1,20 @@
+table, th, td {
+  
+    font-size:130%;
+    border: 1px solid;}
+
+table {
+    width: 100%;
+}
+
+.titre{
+    color: #ff0000; 
+    font-family:verdana;
+    font-size:220%;
+    text-align: center;
+}
+
+a{
+    color: #666666; 
+
+}
