@@ -1,6 +1,6 @@
 table, th, td {
   
-    font-size:130%;
+    font-size:150%;
     border: 1px solid;}
 
 table {
@@ -10,11 +10,15 @@ table {
 .titre{
     color: #ff0000; 
     font-family:verdana;
-    font-size:220%;
+    font-size:300%;
     text-align: center;
 }
 
+.titretable{
+    
+    font-size:130%;
+    color: #0000ff; 
+}
 a{
     color: #666666; 
-
 }
